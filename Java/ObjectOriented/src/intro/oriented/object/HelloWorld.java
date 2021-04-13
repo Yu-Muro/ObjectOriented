@@ -1,4 +1,4 @@
-package introo.oriented.object;
+package intro.oriented.object;
 
 public class HelloWorld {
 
